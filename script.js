@@ -59,7 +59,7 @@ const getRandomEmployee = function(employeesArray) {
   const randomEmployee = employeesArray[randomIndex];
 
   // Display the randomly selected employee
-  console.log(`Congratulations to ${randomEmployee.firstName} ${randomEmployee.lastName}, our random drawing winner!`);
+  console.log(`Congratulates to ${randomEmployee.firstName} ${randomEmployee.lastName}, our random drawing winner!`);
 }
 
 /*
@@ -122,7 +122,7 @@ const trackEmployeeData = function() {
     }
   });
 
-  // Removed displayEmployees(employees);
+  displayEmployees(employees);
 }
 
 // Add event listener to 'Add Employees' button
