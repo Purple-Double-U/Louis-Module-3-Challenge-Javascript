@@ -7,4 +7,4 @@ style.css
 script.js
 
 Link to application: https://dark-n-oak.github.io/Louis-Module-3-Challenge-Javascript/
-![Screenshot 2024-04-17 184341](https://github.com/Dark-N-Oak/Louis-Module-3-Challenge-Javascript/assets/163933013/292db287-dc48-4fee-bdb3-3dd8de2c0e79)
+![Screenshot 2024-04-17 190108](https://github.com/Dark-N-Oak/Louis-Module-3-Challenge-Javascript/assets/163933013/acc1e4e1-cb15-41f6-bb34-6d510a890a38)
